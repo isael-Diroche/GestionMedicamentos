@@ -1,0 +1,68 @@
+# Archivos generados automáticamente
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.vssscc
+.builds
+
+# Directorios generados automáticamente
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+*_i.c
+*_p.c
+obj
+[Dd]ebug*/
+[Rr]elease*/
+
+# Extensiones específicas
+*.csproj.user
+*.vcxproj.*
+*.obj
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.pfx
+*.snk
+*.cache
+*.dll.config
+*.dotCover
+*.resharper
+*.sdf
+*.sln.docstates
+
+# Dependencias y paquetes de NuGet
+packages/
+*.nupkg
+*.paket.*
+paket-files/
+
+# Editorconfig
+.editorconfig
+
+# MacOS-specific
+.DS_Store
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
